@@ -8,7 +8,7 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Hansaka Anuhas
+    MY_OWNER_TXT = """★ Name: DarkPixx
 ★ Username: @UltroidxTeam
 ★ ID: <code>6272184341</code>
 ★ Country: India 🇮🇳"""
@@ -138,4 +138,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://www.youtube.com/@ultroidofficial>ʜᴇʀᴇ</a>
 
-ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://t.me/ultroid_official>SL_Bots</a>"""
+ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://t.me/ultroid_official>Ultroid_official</a>"""

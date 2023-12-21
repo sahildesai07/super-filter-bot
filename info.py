@@ -76,7 +76,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/ultroixTeam')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/ultroidxTeam')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/ultroid_official')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/MovizTube')
 

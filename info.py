@@ -78,7 +78,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/leech_mirrorx')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/ultroid_official')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/mrmoviekhanpro')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/leech_mirrorx')
 
 # Bot settings
 AUTO_FILTER = is_enabled((environ.get('AUTO_FILTER', "True")), True)
